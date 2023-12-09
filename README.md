@@ -80,7 +80,17 @@ password:XXXXXXXX
 
 # 4. Connect to Azure SQL database from Visual Studio 2022 Community Edition
 
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/535cf227-bfa7-418a-8070-701d0f0cdfe9)
 
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/841bf5f5-02df-4ac5-8d7b-441cd3adda9a)
+
+We create a new SQL Server connection pressing in the following button:
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/922754db-05b8-41a8-8d22-14cb16791615)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/f8ccb4fa-61ce-486e-8523-5cb06261d82f)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/c2ecdc70-fad6-4437-a2b9-f4a93a7d8720)
 
 # 5. Connect to Azure SQL database from IntelliJ
 

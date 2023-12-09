@@ -36,9 +36,9 @@ We have to enable the
 
 We configure the firewall
 
-![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/9c7b57dd-e670-4ed9-824a-5dfac71e328f)
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/0988284a-6c76-455a-a2b5-c5239ac42655)
 
-We unselect the "**Deny public network access**" option
+We unselect the "**Deny public network access**" option and also "Allow Azure services and resources to access this server" we set to "Yes"
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/bb03a108-f60f-406f-9d8f-8ff37ec92c58)
 

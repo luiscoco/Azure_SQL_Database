@@ -44,15 +44,19 @@ We unselect the "**Deny public network access**" option and also "Allow Azure se
 
 # 2. Connect to the Azure SQL database from SSMS (SQL Server Management Studio)
 
-![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/c23af465-46fb-4bd4-a606-c7dbbb06d053)
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/2c8f1053-d96d-4b61-b63b-5aa14d97e0d0)
 
 We download and set up **SSMS**: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
 
-![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/3bd7b3de-fced-4073-8323-01a43c59dcba)
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/adf2c818-351b-451d-a25e-e87c101fe733)
 
 username:admin1974
 
 password:XXXXXXXX
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/4103ab86-9317-48cc-aa25-f0350f8b4016)
+
+
 
 
 

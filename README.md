@@ -13,3 +13,9 @@ We create a new Azure SQL database
 We create a new SQL Server
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/3fa7e275-0a22-4000-b5e2-7eec02106046)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/c27d04f2-2d6b-4e08-8b2f-bcebab00a215)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/0bfcddc8-d861-46b3-adfc-18caf37e5e46)
+
+

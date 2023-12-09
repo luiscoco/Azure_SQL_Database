@@ -56,6 +56,34 @@ password:XXXXXXXX
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/4103ab86-9317-48cc-aa25-f0350f8b4016)
 
+# 3. Connect to Azure SQL database from VSCode
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/a1d3e93f-c9d8-4203-8519-be970e7f3b87)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/0a9a2b3c-0516-4a04-8fdd-86c03e6610a8)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/41b13356-582e-460e-ab53-3a97719b6cf9)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/5eb59e80-72cb-4724-9a88-096d21f36b75)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/77b687fc-995c-4f80-b56a-483976eaef53)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/4790a021-fd6f-4afd-adfa-621e37c29083)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/616dbffb-569e-43d2-a8c0-1022cab0bdeb)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/1216eec1-96eb-4b10-a1ed-aebb233bc555)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/94891bd0-ef39-401d-a205-e70da4772285)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/bd5d982c-334a-4e39-a7f9-4316e896f2a1)
+
+# 4. Connect to Azure SQL database from Visual Studio 2022 Community Edition
+
+
+
+# 5. Connect to Azure SQL database from IntelliJ
+
 
 
 

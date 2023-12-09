@@ -51,6 +51,7 @@ We download and set up **SSMS**: https://learn.microsoft.com/en-us/sql/ssms/down
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/3bd7b3de-fced-4073-8323-01a43c59dcba)
 
 username:admin1974
+
 password:XXXXXXXX
 
 

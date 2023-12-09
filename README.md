@@ -20,4 +20,5 @@ We set the **server admin login** "admin1974" and the **password** "Luiscoco1234
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/0bfcddc8-d861-46b3-adfc-18caf37e5e46)
 
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/0b9fdf9b-28b1-416b-8368-87f1080d8fbf)
 

@@ -94,6 +94,9 @@ We create a new SQL Server connection pressing in the following button:
 
 # 5. Connect to Azure SQL database from IntelliJ
 
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/0431339b-4a1f-432c-9e40-69ab0b936f71)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/b21f46d5-3160-4121-815e-f5b6a7a62e04)
 
 
 

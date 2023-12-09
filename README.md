@@ -28,7 +28,21 @@ We set the **server admin login** "admin1974" and the **password** "Luiscoco1234
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/def72f45-7b2f-4b93-8014-b9cb077cfed7)
 
-![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/9b5fef21-c1a2-48ca-8779-f9842209f1db)
+We have to enable the 
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/fe82ba91-8587-4779-a128-9dd199231d41)
+
+We configure the firewall
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/9c7b57dd-e670-4ed9-824a-5dfac71e328f)
+
+We unselect the "**Deny public network access**" option
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/bb03a108-f60f-406f-9d8f-8ff37ec92c58)
+
+
+
+
 
 
 

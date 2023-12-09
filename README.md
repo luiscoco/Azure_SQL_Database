@@ -1,5 +1,7 @@
 # How to create an Azure SQL database and connect from SSMS, Azure Data Studio, VSCode, Visual Studio and IntelliJ Community Edition
 
+# 1. Create a new Azure SQL database
+
 We login in Azure portal and we navigate to Azure SQL database service.
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/e3fa15af-9fef-4a66-a1b0-23fc2777587c)
@@ -16,7 +18,7 @@ We create a new SQL Server
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/c27d04f2-2d6b-4e08-8b2f-bcebab00a215)
 
-We set the **server admin login** "admin1974" and the **password** "Luiscoco123456"
+We set the **server admin login** "admin1974" and the **password** "XXXXXXXXXXXXX"
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/0bfcddc8-d861-46b3-adfc-18caf37e5e46)
 
@@ -40,6 +42,16 @@ We unselect the "**Deny public network access**" option
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/bb03a108-f60f-406f-9d8f-8ff37ec92c58)
 
+# 2. Connect to the Azure SQL database from SSMS (SQL Server Management Studio)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/c23af465-46fb-4bd4-a606-c7dbbb06d053)
+
+We download and set up **SSMS**: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/3bd7b3de-fced-4073-8323-01a43c59dcba)
+
+username:admin1974
+password:XXXXXXXX
 
 
 

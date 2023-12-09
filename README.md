@@ -98,7 +98,17 @@ We create a new SQL Server connection pressing in the following button:
 
 ![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/b21f46d5-3160-4121-815e-f5b6a7a62e04)
 
+# 6. Connect to Azure SQL database from Azure Data Studio
 
+Download and Install Azure Data Studio: https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio
+
+Run Azure Data Studio and connect to the Azure SQL database
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/a1acec22-32f9-4086-8ade-5e75be1eee58)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/4c140667-6559-47fd-8750-678003212bf5)
+
+![image](https://github.com/luiscoco/Azure_SQL_Database_connect-from-SSMS-Azure-Data-Studio-VSCode-Visual-Studio-and-IntelliJ-Communit/assets/32194879/647961dd-ddf3-492a-96aa-0a92b0739c3c)
 
 
 
